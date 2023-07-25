@@ -63,7 +63,410 @@
     "currentPlatform": "GDevelop JS platform"
   },
   "resources": {
-    "resources": [],
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Right.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Brown Flat.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "b8c829149a2892e17fe974dff1370c505c7bef6ed09e1f2d2196187ef9ac3473_Wall Brown Flat.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Wall/b8c829149a2892e17fe974dff1370c505c7bef6ed09e1f2d2196187ef9ac3473_Wall Brown Flat.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rock Head_Blink_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "d925ac5a246556db2e9dd8de17502affd0a36d637b988a8f620acfe971af73a5_Rock Head_Blink_2.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Rock Head/d925ac5a246556db2e9dd8de17502affd0a36d637b988a8f620acfe971af73a5_Rock Head_Blink_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Big square wood_Damaged.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "448bcc961d711418fec16d2b424dc45cbccf4e5df17e240fda8f7f900081f896_Big square wood_Damaged.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Breakable Physics/Obstacle/Wood/448bcc961d711418fec16d2b424dc45cbccf4e5df17e240fda8f7f900081f896_Big square wood_Damaged.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Square Green Slider Thumb.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "7f9d3fcd723e6cd77452d818e3cba9775f63acdbf98378e7276cc95bf1213e86_Square Green Slider Thumb.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Slider/pixel art/7f9d3fcd723e6cd77452d818e3cba9775f63acdbf98378e7276cc95bf1213e86_Square Green Slider Thumb.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Small Plastic Green Square Toggle_Off.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9fac934090b9e722bbede334ed31025aa21ea4f85d64d12d2ed29f95157df6b5_Small Plastic Green Square Toggle_Off.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Toggle Switch/9fac934090b9e722bbede334ed31025aa21ea4f85d64d12d2ed29f95157df6b5_Small Plastic Green Square Toggle_Off.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "9414f024dd4253aa09ac35fde455f5fd.gif",
+        "kind": "image",
+        "metadata": "",
+        "name": "9414f024dd4253aa09ac35fde455f5fd.gif",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bomber_idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Bomber_idle.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bomberup_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bomberup_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bomberup_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bomberup_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bomberup_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bomberup_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bomberdown_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bomberdown_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bomberdown_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bomberdown_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bomberdown_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bomberdown_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bomberleft_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bomberleft_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bomberleft_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bomberleft_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bomberleft_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bomberleft_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bombermanright_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bombermanright_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bomberright_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bomberright_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bomberright_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bomberright_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "idle",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/up.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/up.png\"}",
+        "name": "up",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/up2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/up2.png\"}",
+        "name": "up2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/up3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/up3.png\"}",
+        "name": "up3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/down.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "down",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/down2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "down2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/down3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "down3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/left.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "left",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/left2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "left2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/left3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "left3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/right.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "right",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/right2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "right2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/right3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "right3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/left4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "left4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/left5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "left5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/left6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "left6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/BombeBonus-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\BombeBonus-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bomb.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Bomb",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/FlammeBonus.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\FlammeBonus.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/flame.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flame",
+        "smoothed": true,
+        "userAdded": true
+      }
+    ],
     "resourceFolders": []
   },
   "objects": [],
@@ -81,7 +484,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": false,
+        "grid": true,
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
@@ -89,14 +492,1934 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.546875,
+        "snap": true,
+        "zoomFactor": 1.1726229638177648,
         "windowMask": false
       },
       "objectsGroups": [],
       "variables": [],
-      "instances": [],
-      "objects": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 32,
+          "layer": "",
+          "name": "Wall",
+          "persistentUuid": "62023257-37e2-4715-bc5a-ecf5485f9a10",
+          "width": 480,
+          "x": 448,
+          "y": 96,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 448,
+          "layer": "",
+          "name": "Wall2",
+          "persistentUuid": "1fc4e9a4-8d1a-4625-95f7-70cae3dc8f23",
+          "width": 32,
+          "x": 448,
+          "y": 128,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 32,
+          "layer": "",
+          "name": "Wall3",
+          "persistentUuid": "8fcdc977-5d22-4cab-bb47-066a76847932",
+          "width": 448,
+          "x": 480,
+          "y": 544,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 416,
+          "layer": "",
+          "name": "Wall4",
+          "persistentUuid": "003605aa-ea2e-4916-89a4-b5d52af373c0",
+          "width": 32,
+          "x": 896,
+          "y": 128,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "135ffbf1-5439-4832-846f-ca3936b7b860",
+          "width": 0,
+          "x": 512,
+          "y": 160,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "e0c9d4f4-3ebd-44bc-a0c4-4190ed3b8517",
+          "width": 0,
+          "x": 512,
+          "y": 224,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "a1b85c25-5c40-4a56-bfa1-e2009bbe811f",
+          "width": 0,
+          "x": 512,
+          "y": 288,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "76f0713e-27a4-4697-97ca-49a7748a6f72",
+          "width": 0,
+          "x": 512,
+          "y": 352,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "a0b55e1c-683b-45e2-b3d2-3a0b825124d4",
+          "width": 0,
+          "x": 512,
+          "y": 416,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "712f9270-7fa9-413f-9dec-51453e50f711",
+          "width": 0,
+          "x": 512,
+          "y": 480,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "1eda742b-b1c1-4df7-b457-c85965dfeff9",
+          "width": 0,
+          "x": 576,
+          "y": 160,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "fefd4172-a80b-4408-af55-484502f1c2df",
+          "width": 0,
+          "x": 576,
+          "y": 224,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "fbf15d14-cc17-4a3a-a650-56141d5ce797",
+          "width": 0,
+          "x": 576,
+          "y": 288,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "17a37665-472b-42f9-94b9-eaf26f365d49",
+          "width": 0,
+          "x": 576,
+          "y": 352,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "d876a365-cc21-471d-822f-4b55ee03dc53",
+          "width": 0,
+          "x": 576,
+          "y": 416,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "33d2cc7f-595f-48ac-8570-7d96a1cdc4dd",
+          "width": 0,
+          "x": 576,
+          "y": 480,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "071f0766-9f3c-43e6-a034-341dd9ab0b09",
+          "width": 0,
+          "x": 640,
+          "y": 160,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "cb0b1880-d6ef-4648-90e5-e7dc1d21cd53",
+          "width": 0,
+          "x": 640,
+          "y": 224,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "5c538361-609c-499c-9585-d77e4756a6b4",
+          "width": 0,
+          "x": 640,
+          "y": 288,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "5da3df58-63c7-43f7-93dd-0d06a095dfcc",
+          "width": 0,
+          "x": 640,
+          "y": 352,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "fb08b3d6-ae27-4358-9ee4-85c7f1305804",
+          "width": 0,
+          "x": 640,
+          "y": 416,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "d22a1d8f-7bdd-4bbe-854f-df6d57e7bf38",
+          "width": 0,
+          "x": 640,
+          "y": 480,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "635fdd62-5a29-4b2b-9c81-a3f2b9b2d16e",
+          "width": 0,
+          "x": 704,
+          "y": 160,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "fbef2ac4-65ea-49ac-b141-15f853a7d8bf",
+          "width": 0,
+          "x": 704,
+          "y": 224,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "36ba7050-0178-4555-aee8-02fe62a4d143",
+          "width": 0,
+          "x": 704,
+          "y": 288,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "487e35c9-dd27-4bda-8f22-e3ec4ef11775",
+          "width": 0,
+          "x": 704,
+          "y": 352,
+          "zOrder": 27,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "a7cf94df-c9ca-4b75-938c-3893283d452f",
+          "width": 0,
+          "x": 704,
+          "y": 416,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "71aecfed-7c29-455d-a78a-e19c34c6fbf6",
+          "width": 0,
+          "x": 704,
+          "y": 480,
+          "zOrder": 29,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "74a1a8c1-94b3-4c11-bd43-54e412354bf3",
+          "width": 0,
+          "x": 768,
+          "y": 160,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "ba66b2cf-484c-4156-8acc-3f3d96d28f97",
+          "width": 0,
+          "x": 768,
+          "y": 224,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "9cdca030-22d1-4cb0-812c-6dcb0cc1ef22",
+          "width": 0,
+          "x": 768,
+          "y": 288,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "1818ad5f-8ac8-4f25-a711-1fd18b888f2f",
+          "width": 0,
+          "x": 768,
+          "y": 352,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "c5c05791-246f-43ba-b659-eb1f3f4ebd66",
+          "width": 0,
+          "x": 768,
+          "y": 416,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "2e226494-6890-42a2-ba45-043d71df64ee",
+          "width": 0,
+          "x": 768,
+          "y": 480,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "ae3c1441-f6ba-4f68-89b9-ba8f98880476",
+          "width": 0,
+          "x": 832,
+          "y": 160,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "792fc24a-6a92-4349-abe1-04fd639768e5",
+          "width": 0,
+          "x": 832,
+          "y": 224,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "053b9bcd-3943-4f48-9862-aab3cb7e9786",
+          "width": 0,
+          "x": 832,
+          "y": 288,
+          "zOrder": 38,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "f8a74eb2-62af-40d6-962d-c1cd3ed665b0",
+          "width": 0,
+          "x": 832,
+          "y": 352,
+          "zOrder": 39,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "81bdeaef-c5a8-4d93-aac1-b74d0e290824",
+          "width": 0,
+          "x": 832,
+          "y": 416,
+          "zOrder": 40,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle",
+          "persistentUuid": "6f7b3200-aeaf-461d-85f6-7d6fb22c53aa",
+          "width": 0,
+          "x": 832,
+          "y": 480,
+          "zOrder": 41,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "2f970fe5-de83-4e93-a95d-0a493855770e",
+          "width": 0,
+          "x": 576,
+          "y": 192,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle3",
+          "persistentUuid": "dc8b149b-ee70-45a1-b898-2277ac9d2891",
+          "width": 0,
+          "x": 672,
+          "y": 160,
+          "zOrder": 43,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle4",
+          "persistentUuid": "979e8ad4-0f7a-4978-aac3-4fb6c8da617d",
+          "width": 0,
+          "x": 672,
+          "y": 128,
+          "zOrder": 44,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle5",
+          "persistentUuid": "d0196f29-0235-4038-ba4b-1c5d4ec2e710",
+          "width": 0,
+          "x": 704,
+          "y": 128,
+          "zOrder": 45,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle6",
+          "persistentUuid": "29d98376-4e9c-4335-bfcd-f6e4e6ffdc06",
+          "width": 0,
+          "x": 768,
+          "y": 128,
+          "zOrder": 46,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle7",
+          "persistentUuid": "db40cb74-38fa-4464-bb59-2e999a0467e3",
+          "width": 0,
+          "x": 800,
+          "y": 160,
+          "zOrder": 47,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle8",
+          "persistentUuid": "bc850ce8-318c-4bdc-b41c-25b461bb0879",
+          "width": 0,
+          "x": 864,
+          "y": 128,
+          "zOrder": 48,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle9",
+          "persistentUuid": "395c0333-cb06-4147-b99a-54a8437cd1e4",
+          "width": 0,
+          "x": 864,
+          "y": 160,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle10",
+          "persistentUuid": "683da9bf-066b-4ab1-8ea4-0ee8b66b3ec6",
+          "width": 0,
+          "x": 864,
+          "y": 192,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle11",
+          "persistentUuid": "10818de2-db79-447d-a828-c4f5994ea8a4",
+          "width": 0,
+          "x": 704,
+          "y": 192,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle12",
+          "persistentUuid": "af9a52ba-f2f8-4d5a-b0de-75f5e0393eec",
+          "width": 0,
+          "x": 736,
+          "y": 192,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle13",
+          "persistentUuid": "41a8edd7-14a8-446b-a6c8-8015b709259d",
+          "width": 0,
+          "x": 768,
+          "y": 192,
+          "zOrder": 55,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle14",
+          "persistentUuid": "c36288a3-ff08-4dd1-9314-56edf2e20dc1",
+          "width": 0,
+          "x": 736,
+          "y": 224,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle15",
+          "persistentUuid": "fdac9625-42fd-45ce-b0d8-fe8e02b8ce7d",
+          "width": 0,
+          "x": 736,
+          "y": 256,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle16",
+          "persistentUuid": "547862d5-cd4a-449d-ae51-acec9427f5fc",
+          "width": 0,
+          "x": 800,
+          "y": 256,
+          "zOrder": 58,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle17",
+          "persistentUuid": "29d1b1a7-504b-4a87-9326-4a10ef09cf45",
+          "width": 0,
+          "x": 832,
+          "y": 256,
+          "zOrder": 59,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle18",
+          "persistentUuid": "32b676e4-997c-4856-856a-ccc08f5a19f4",
+          "width": 0,
+          "x": 832,
+          "y": 320,
+          "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle19",
+          "persistentUuid": "199049fc-10ab-4352-86c8-e12d5fe29311",
+          "width": 0,
+          "x": 736,
+          "y": 320,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle20",
+          "persistentUuid": "cb462042-518c-4cea-af80-55b5aff5ca11",
+          "width": 0,
+          "x": 832,
+          "y": 384,
+          "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle21",
+          "persistentUuid": "890ba08d-84f1-4f6c-b473-c821cba69b8b",
+          "width": 0,
+          "x": 736,
+          "y": 416,
+          "zOrder": 63,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle22",
+          "persistentUuid": "04c5b608-88ec-4290-b708-9ca6a0f75d4b",
+          "width": 0,
+          "x": 768,
+          "y": 448,
+          "zOrder": 64,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle23",
+          "persistentUuid": "c4728328-2881-4cd7-8ee0-e3895349a482",
+          "width": 0,
+          "x": 832,
+          "y": 512,
+          "zOrder": 65,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle24",
+          "persistentUuid": "40df4029-b120-46c3-9ae5-4c3f707f43bc",
+          "width": 0,
+          "x": 576,
+          "y": 384,
+          "zOrder": 66,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle25",
+          "persistentUuid": "7400c53a-9175-4b6d-91df-b7e83fce3e70",
+          "width": 0,
+          "x": 544,
+          "y": 480,
+          "zOrder": 67,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle26",
+          "persistentUuid": "d44198fe-abde-467f-9217-96bd3d4e0c76",
+          "width": 0,
+          "x": 480,
+          "y": 320,
+          "zOrder": 68,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle27",
+          "persistentUuid": "c0551f0e-b699-4924-a6e7-90e1aee3e22e",
+          "width": 0,
+          "x": 480,
+          "y": 256,
+          "zOrder": 69,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle28",
+          "persistentUuid": "fc993699-40d2-4c07-af0e-a1dae1191b4f",
+          "width": 0,
+          "x": 544,
+          "y": 512,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle29",
+          "persistentUuid": "e5ccd0fd-0ac5-484b-ac4c-b532f03697af",
+          "width": 0,
+          "x": 672,
+          "y": 448,
+          "zOrder": 71,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle30",
+          "persistentUuid": "9531cd9c-c0e6-47c6-8e8e-4761dce1e546",
+          "width": 0,
+          "x": 672,
+          "y": 416,
+          "zOrder": 72,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 32,
+          "layer": "",
+          "name": "Bomberman",
+          "persistentUuid": "f403c6c9-e390-4ec2-9bf2-dc1902a922f7",
+          "width": 32,
+          "x": 480,
+          "y": 128,
+          "zOrder": 73,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Wall",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Wall2",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Wall3",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Wall4",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png3",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": false,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle2",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle3",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle4",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle5",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle6",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle7",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle8",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle9",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle10",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle11",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle12",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle13",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle14",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle15",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle16",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle17",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle18",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle19",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle20",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle21",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle22",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle23",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle24",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle25",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle26",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle27",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle28",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle29",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle30",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Obstacle31",
+          "tags": "",
+          "texture": "d4912240d6d75057d4107dc42b92ee25dd206bf22e58b8bbdcbc1fcfc37a9d37_Wall Right.png2",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "Bomberman",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 1500,
+              "gravity": 0,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "idle",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "up",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "up2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "up3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "down",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "down2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "down3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "left4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "left5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "left6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "right",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "right2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "right3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Bombplus",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Bomb",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Bomb",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Flamebig",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "flame",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "flame",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -108,6 +2431,15 @@
               "parameters": [
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "d"
+              ]
             }
           ],
           "actions": [
@@ -117,6 +2449,15 @@
               },
               "parameters": [
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Bomberman",
+                "\"left\""
               ]
             }
           ]
@@ -151,7 +2492,16 @@
           "effects": []
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        }
+      ]
     }
   ],
   "externalEvents": [],
