@@ -816,6 +816,267 @@
         "name": "right12",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bomb_idle1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bomb_idle1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bomb_idle2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bomb_idle2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bomb_idle3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bomb_idle3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/explode_normal.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\explode_normal.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Explode.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explode",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Explode2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explode2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Explode3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explode3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ExplosionCentre-Anim4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"ExplosionCentre-Anim4.png\",\"extension\":\".png\"}",
+        "name": "ExplosionCentre-Anim4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ExplosionBras-Anim3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ExplosionBras-Anim3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ExplosionAvantBras-Anim4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ExplosionAvantBras-Anim4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ExplosionDoigt-Anim4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"ExplosionDoigt-Anim4.png\",\"extension\":\".png\"}",
+        "name": "ExplosionDoigt-Anim4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ExplosionAvantBras-Anim5.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"ExplosionAvantBras-Anim5.png\",\"extension\":\".png\"}",
+        "name": "ExplosionAvantBras-Anim5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ExplosionDoigt-Anim5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ExplosionDoigt-Anim5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ExplosionBras-Anim4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"ExplosionBras-Anim4.png\",\"extension\":\".png\"}",
+        "name": "ExplosionBras-Anim4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ExplosionDoigt-Anim6.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"ExplosionDoigt-Anim6.png\",\"extension\":\".png\"}",
+        "name": "ExplosionDoigt-Anim6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ExplosionAvantBras-Anim6.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"ExplosionAvantBras-Anim6.png\",\"extension\":\".png\"}",
+        "name": "ExplosionAvantBras-Anim6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ExplosionDoigt-Anim7.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"ExplosionDoigt-Anim7.png\",\"extension\":\".png\"}",
+        "name": "ExplosionDoigt-Anim7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Explode_1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explode_1",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Explode_left1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explode_left1",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Explode_left2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explode_left2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Explode_Right1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explode_Right1",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Explode_Right2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explode_Right2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Explode_Up1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explode_Up1",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Explode_Up2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explode_Up2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Explode_Down1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explode_Down1",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Explode_Down2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Explode_Down2",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -844,7 +1105,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 1.1726229638177648,
+        "zoomFactor": 0.9934433498259582,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1474,432 +1735,432 @@
           "customSize": false,
           "height": 0,
           "layer": "",
-          "name": "Obstacle3",
-          "persistentUuid": "dc8b149b-ee70-45a1-b898-2277ac9d2891",
-          "width": 0,
-          "x": 672,
-          "y": 160,
-          "zOrder": 43,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle4",
-          "persistentUuid": "979e8ad4-0f7a-4978-aac3-4fb6c8da617d",
-          "width": 0,
-          "x": 672,
-          "y": 128,
-          "zOrder": 44,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle5",
-          "persistentUuid": "d0196f29-0235-4038-ba4b-1c5d4ec2e710",
-          "width": 0,
-          "x": 704,
-          "y": 128,
-          "zOrder": 45,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle6",
-          "persistentUuid": "29d98376-4e9c-4335-bfcd-f6e4e6ffdc06",
-          "width": 0,
-          "x": 768,
-          "y": 128,
-          "zOrder": 46,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle7",
-          "persistentUuid": "db40cb74-38fa-4464-bb59-2e999a0467e3",
-          "width": 0,
-          "x": 800,
-          "y": 160,
-          "zOrder": 47,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle8",
-          "persistentUuid": "bc850ce8-318c-4bdc-b41c-25b461bb0879",
-          "width": 0,
-          "x": 864,
-          "y": 128,
-          "zOrder": 48,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle9",
-          "persistentUuid": "395c0333-cb06-4147-b99a-54a8437cd1e4",
-          "width": 0,
-          "x": 864,
-          "y": 160,
-          "zOrder": 49,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle10",
-          "persistentUuid": "683da9bf-066b-4ab1-8ea4-0ee8b66b3ec6",
-          "width": 0,
-          "x": 864,
-          "y": 192,
-          "zOrder": 50,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle11",
-          "persistentUuid": "10818de2-db79-447d-a828-c4f5994ea8a4",
-          "width": 0,
-          "x": 704,
-          "y": 192,
-          "zOrder": 53,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle12",
-          "persistentUuid": "af9a52ba-f2f8-4d5a-b0de-75f5e0393eec",
-          "width": 0,
-          "x": 736,
-          "y": 192,
-          "zOrder": 54,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle13",
-          "persistentUuid": "41a8edd7-14a8-446b-a6c8-8015b709259d",
-          "width": 0,
-          "x": 768,
-          "y": 192,
-          "zOrder": 55,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle14",
-          "persistentUuid": "c36288a3-ff08-4dd1-9314-56edf2e20dc1",
-          "width": 0,
-          "x": 736,
-          "y": 224,
-          "zOrder": 56,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle15",
-          "persistentUuid": "fdac9625-42fd-45ce-b0d8-fe8e02b8ce7d",
-          "width": 0,
-          "x": 736,
-          "y": 256,
-          "zOrder": 57,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle16",
-          "persistentUuid": "547862d5-cd4a-449d-ae51-acec9427f5fc",
-          "width": 0,
-          "x": 800,
-          "y": 256,
-          "zOrder": 58,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle17",
-          "persistentUuid": "29d1b1a7-504b-4a87-9326-4a10ef09cf45",
-          "width": 0,
-          "x": 832,
-          "y": 256,
-          "zOrder": 59,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle18",
-          "persistentUuid": "32b676e4-997c-4856-856a-ccc08f5a19f4",
-          "width": 0,
-          "x": 832,
-          "y": 320,
-          "zOrder": 60,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle19",
-          "persistentUuid": "199049fc-10ab-4352-86c8-e12d5fe29311",
-          "width": 0,
-          "x": 736,
-          "y": 320,
-          "zOrder": 61,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle20",
-          "persistentUuid": "cb462042-518c-4cea-af80-55b5aff5ca11",
-          "width": 0,
-          "x": 832,
-          "y": 384,
-          "zOrder": 62,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle21",
-          "persistentUuid": "890ba08d-84f1-4f6c-b473-c821cba69b8b",
-          "width": 0,
-          "x": 736,
-          "y": 416,
-          "zOrder": 63,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle22",
-          "persistentUuid": "04c5b608-88ec-4290-b708-9ca6a0f75d4b",
-          "width": 0,
-          "x": 768,
-          "y": 448,
-          "zOrder": 64,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle23",
-          "persistentUuid": "c4728328-2881-4cd7-8ee0-e3895349a482",
-          "width": 0,
-          "x": 832,
-          "y": 512,
-          "zOrder": 65,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle24",
-          "persistentUuid": "40df4029-b120-46c3-9ae5-4c3f707f43bc",
-          "width": 0,
-          "x": 576,
-          "y": 384,
-          "zOrder": 66,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle25",
-          "persistentUuid": "7400c53a-9175-4b6d-91df-b7e83fce3e70",
-          "width": 0,
-          "x": 544,
-          "y": 480,
-          "zOrder": 67,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle26",
-          "persistentUuid": "d44198fe-abde-467f-9217-96bd3d4e0c76",
-          "width": 0,
-          "x": 480,
-          "y": 320,
-          "zOrder": 68,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle27",
-          "persistentUuid": "c0551f0e-b699-4924-a6e7-90e1aee3e22e",
-          "width": 0,
-          "x": 480,
-          "y": 256,
-          "zOrder": 69,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle28",
-          "persistentUuid": "fc993699-40d2-4c07-af0e-a1dae1191b4f",
-          "width": 0,
-          "x": 544,
-          "y": 512,
-          "zOrder": 70,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle29",
-          "persistentUuid": "e5ccd0fd-0ac5-484b-ac4c-b532f03697af",
-          "width": 0,
-          "x": 672,
-          "y": 448,
-          "zOrder": 71,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "name": "Obstacle30",
-          "persistentUuid": "9531cd9c-c0e6-47c6-8e8e-4761dce1e546",
-          "width": 0,
-          "x": 672,
-          "y": 416,
-          "zOrder": 72,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
           "name": "Bomberman",
           "persistentUuid": "72702893-ea78-41a4-a791-1bb8d35359bb",
           "width": 0,
           "x": 487,
           "y": 135,
           "zOrder": 73,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "ddde5003-dd2c-4d88-8197-1939417ccbf5",
+          "width": 0,
+          "x": 480,
+          "y": 256,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "ef696b2c-6dcb-4540-9155-cbd835f590e9",
+          "width": 0,
+          "x": 480,
+          "y": 320,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "d5886ce1-fa65-43c6-8b33-ead27c6d6b2d",
+          "width": 0,
+          "x": 672,
+          "y": 128,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "19549353-1694-43f3-9347-459863483893",
+          "width": 0,
+          "x": 672,
+          "y": 160,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "5bb397b8-47b2-49d3-a7c1-3f2320e1069c",
+          "width": 0,
+          "x": 704,
+          "y": 128,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "d4b04900-d458-4eff-bb75-ee566f189de1",
+          "width": 0,
+          "x": 768,
+          "y": 128,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "575cd0c4-999a-47f9-a76f-f5227bcddc4b",
+          "width": 0,
+          "x": 800,
+          "y": 160,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "7e033271-aa4f-4e6a-af87-81f809282f68",
+          "width": 0,
+          "x": 864,
+          "y": 192,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "cbe9fcdf-1a80-4994-ae17-6ba1b9edc3fa",
+          "width": 0,
+          "x": 864,
+          "y": 160,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "012eb4d4-1de3-4d5f-8aa8-28c91745a6b6",
+          "width": 0,
+          "x": 864,
+          "y": 128,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "c37890a8-b3a2-4969-8db3-99c3b6826def",
+          "width": 0,
+          "x": 768,
+          "y": 192,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "76a6044f-816c-4597-8c51-1e6a691203a7",
+          "width": 0,
+          "x": 736,
+          "y": 192,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "d2120e1d-3129-4b8c-9848-3020ca16d50d",
+          "width": 0,
+          "x": 704,
+          "y": 192,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "c0fe353a-a047-47af-89e0-172b87a80b8f",
+          "width": 0,
+          "x": 736,
+          "y": 224,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "4390b3dc-3169-4438-97d7-64f32d6c0c72",
+          "width": 0,
+          "x": 736,
+          "y": 256,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "be8dd13d-6298-4941-a546-cb1bc66c0ac9",
+          "width": 0,
+          "x": 832,
+          "y": 256,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "f34baea7-f738-4109-b9d4-d15e1dd6941e",
+          "width": 0,
+          "x": 800,
+          "y": 256,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "92258060-db4c-4203-b0d4-d54b783cd533",
+          "width": 0,
+          "x": 832,
+          "y": 320,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "def5687b-9cdf-4a1a-83d4-bddf42244a40",
+          "width": 0,
+          "x": 832,
+          "y": 384,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "5056147c-6d4f-4a6a-8db4-4cf4f6953a52",
+          "width": 0,
+          "x": 832,
+          "y": 512,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "bdac8d09-12f4-4c20-aac6-dbb1702adf73",
+          "width": 0,
+          "x": 768,
+          "y": 448,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "47c013f3-ea0b-4062-93f4-ad3228898d2a",
+          "width": 0,
+          "x": 736,
+          "y": 416,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "e5a97189-77c9-4ce3-910c-c0b48abcff73",
+          "width": 0,
+          "x": 672,
+          "y": 416,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "1e18e724-c60e-4c12-935e-ad6c76232a90",
+          "width": 0,
+          "x": 672,
+          "y": 448,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "16ba1f0e-1c0e-4557-83db-a5bc1201221e",
+          "width": 0,
+          "x": 544,
+          "y": 512,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "7bab3b36-24a7-4b6d-bbaf-113cb35ab93e",
+          "width": 0,
+          "x": 544,
+          "y": 480,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "49a32505-8b47-49d6-b684-4668f16e6a08",
+          "width": 0,
+          "x": 576,
+          "y": 384,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Obstacle2",
+          "persistentUuid": "4a9d3d1e-666f-494f-a21e-390f36537034",
+          "width": 0,
+          "x": 736,
+          "y": 320,
+          "zOrder": 42,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2018,10 +2279,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2038,10 +2299,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2058,10 +2319,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2078,10 +2339,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2098,10 +2359,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2118,10 +2379,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2138,10 +2399,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2158,10 +2419,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2178,10 +2439,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2198,10 +2459,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2218,10 +2479,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2238,10 +2499,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2270,10 +2531,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2290,10 +2551,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2310,10 +2571,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2330,10 +2591,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2350,10 +2611,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2370,10 +2631,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2390,10 +2651,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2410,10 +2671,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2430,10 +2691,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2450,10 +2711,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2470,10 +2731,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2490,10 +2751,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2510,10 +2771,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2530,10 +2791,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2550,10 +2811,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2570,10 +2831,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2992,6 +3253,363 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Bomb",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ObjectSpawner",
+              "type": "ObjectSpawner::ObjectSpawner",
+              "SpawnPeriod": 2,
+              "OffsetX": 0,
+              "OffsetY": 0,
+              "JustSpawnedAnObject": false,
+              "MaxQuantityReached": false,
+              "MaxQuantity": 1
+            }
+          ],
+          "animations": [
+            {
+              "name": "Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.3,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Idle",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Idle2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Idle3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Explode_1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Explode_1",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Explode_left1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Explode_left1",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Explode_left2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Explode_left2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Explode_Right1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Explode_Right1",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Explode_Right2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Explode_Right2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Explode_Up1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Explode_Up1",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Explode_Up2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Explode_Up2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Explode_Down1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Explode_Down1",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Explode_Down2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Explode_Down2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -3251,6 +3869,96 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Bomb",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "f"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Bomb",
+                "round(Bomberman.X() / 1) * 1",
+                "round(Bomberman.Y() / 1) * 1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Bomb",
+                "\"Idle\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Explosion\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Explosion\"",
+                ">=",
+                "2"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Bomb",
+                "\"Explode_1\""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -3284,6 +3992,10 @@
       ],
       "behaviorsSharedData": [
         {
+          "name": "ObjectSpawner",
+          "type": "ObjectSpawner::ObjectSpawner"
+        },
+        {
           "name": "Platform",
           "type": "PlatformBehavior::PlatformBehavior"
         },
@@ -3295,7 +4007,1076 @@
     }
   ],
   "externalEvents": [],
-  "eventsFunctionsExtensions": [],
+  "eventsFunctionsExtensions": [
+    {
+      "author": "",
+      "category": "Game mechanic",
+      "extensionNamespace": "",
+      "fullName": "Object spawner",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLXBsdXMtb25lIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEwLDhWMTJIMTRWMTRIMTBWMThIOFYxNEg0VjEySDhWOEgxME0xNC41LDYuMDhMMTksNVYxOEgxN1Y3LjRMMTQuNSw3LjlWNi4wOFoiIC8+PC9zdmc+",
+      "name": "ObjectSpawner",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/plus-one.svg",
+      "shortDescription": "Spawn (create) objects periodically.",
+      "version": "0.4.2",
+      "description": [
+        "Spawn objects periodically and control their number.",
+        "",
+        "It can be used to create:",
+        "- Enemies",
+        "- NPCs",
+        "- Environmental objects",
+        ""
+      ],
+      "origin": {
+        "identifier": "ObjectSpawner",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "spawn",
+        "spawner",
+        "objects",
+        "create",
+        "timer"
+      ],
+      "authorIds": [
+        "gqDaZjCfevOOxBYkK6zlhtZnXCg1"
+      ],
+      "dependencies": [],
+      "eventsFunctions": [],
+      "eventsBasedBehaviors": [
+        {
+          "description": "Spawn (create) objects periodically.",
+          "fullName": "Object spawner",
+          "name": "ObjectSpawner",
+          "objectType": "",
+          "eventsFunctions": [
+            {
+              "description": "Spawn (create) objects periodically. This action must be run every frame to work. When the max quantity is reached and an instance is deleted, the spawner waits the duration of the spawn period before creating another instance. Spawned objects are automatically linked to the spawner.",
+              "fullName": "Spawn objects periodically",
+              "functionType": "Action",
+              "name": "SpawnObject",
+              "sentence": "Periodically spawn (create) a _PARAM2_ located at spawner _PARAM0_ ",
+              "events": [
+                {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "name": "Max quantity check",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "Always spawn objects if quantity is set to \"0\""
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ObjectSpawner::ObjectSpawner::SetPropertyMaxQuantityReached"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "no"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "Check if max number of instances per spawner has been reached"
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "ObjectSpawner::ObjectSpawner::PropertyMaxQuantity"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "!=",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "LinkedObjects::PickObjectsLinkedTo"
+                          },
+                          "parameters": [
+                            "",
+                            "ObjectToSpawn",
+                            "Object",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Comment",
+                          "color": {
+                            "b": 109,
+                            "g": 230,
+                            "r": 255,
+                            "textB": 0,
+                            "textG": 0,
+                            "textR": 0
+                          },
+                          "comment": "This is used so that objects are not immediately spawned after deleting an instance after max instances had been reached"
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Egal"
+                              },
+                              "parameters": [
+                                "Count(ObjectToSpawn)",
+                                "<",
+                                "Object.Behavior::PropertyMaxQuantity()"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BuiltinCommonInstructions::Once"
+                              },
+                              "parameters": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "ResetObjectTimer"
+                              },
+                              "parameters": [
+                                "Object",
+                                "\"__ObjectSpawner.SpawnTimer\""
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Comment",
+                          "color": {
+                            "b": 109,
+                            "g": 230,
+                            "r": 255,
+                            "textB": 0,
+                            "textG": 0,
+                            "textR": 0
+                          },
+                          "comment": "Check if max number of instances per spawner has been reached"
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "Egal"
+                              },
+                              "parameters": [
+                                "Count(ObjectToSpawn)",
+                                ">=",
+                                "Object.Behavior::PropertyMaxQuantity()"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "ObjectSpawner::ObjectSpawner::SetPropertyMaxQuantityReached"
+                              },
+                              "parameters": [
+                                "Object",
+                                "Behavior",
+                                "yes"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "parameters": []
+                },
+                {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "name": "Spawning",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "Reset spawn detection"
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ObjectSpawner::ObjectSpawner::SetPropertyJustSpawnedAnObject"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "no"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "Spawn an object when conditions are met"
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "Object",
+                            "\"__ObjectSpawner.SpawnTimer\"",
+                            ">",
+                            "Object.Behavior::PropertySpawnPeriod()"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "ObjectSpawner::ObjectSpawner::PropertyMaxQuantityReached"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Object",
+                            "\"__ObjectSpawner.SpawnTimer\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "ObjectToSpawn",
+                            "Object.X()+Object.Behavior::PropertyOffsetX()",
+                            "Object.Y()+Object.Behavior::PropertyOffsetY()",
+                            "Object.Layer()"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ObjectSpawner::ObjectSpawner::SetPropertyJustSpawnedAnObject"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "yes"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "LinkedObjects::LinkObjects"
+                          },
+                          "parameters": [
+                            "",
+                            "ObjectToSpawn",
+                            "Object"
+                          ]
+                        }
+                      ],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Comment",
+                          "color": {
+                            "b": 109,
+                            "g": 230,
+                            "r": 255,
+                            "textB": 0,
+                            "textG": 0,
+                            "textR": 0
+                          },
+                          "comment": "Note: Spawned objects are linked to the spawner to check their number per spawner"
+                        }
+                      ]
+                    }
+                  ],
+                  "parameters": []
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Object that will be created",
+                  "name": "ObjectToSpawn",
+                  "type": "objectList"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "onCreated",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ResetObjectTimer"
+                      },
+                      "parameters": [
+                        "Object",
+                        "\"__ObjectSpawner.SpawnTimer\""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Change the offset X relative to origin of spawner (in pixels).",
+              "fullName": "Offset on X axis",
+              "functionType": "Action",
+              "name": "SetOffsetX",
+              "sentence": "Change the offset X of _PARAM0_ to _PARAM2_ pixels",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ObjectSpawner::ObjectSpawner::SetPropertyOffsetX"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "GetArgumentAsNumber(\"Value\")"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Value",
+                  "name": "Value",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Change the offset Y relative to origin of spawner (in pixels).",
+              "fullName": "Offset on Y axis",
+              "functionType": "Action",
+              "name": "SetOffsetY",
+              "sentence": "Change the offset Y of _PARAM0_ to _PARAM2_ pixels",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ObjectSpawner::ObjectSpawner::SetPropertyOffsetY"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "GetArgumentAsNumber(\"Value\")"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Value",
+                  "name": "Value",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Change the maximum number of living objects a spawner can create. Set it to 0 to never stop spawning objects.",
+              "fullName": "Maximum quantity",
+              "functionType": "Action",
+              "name": "SetMaxQuantity",
+              "sentence": "Change the maximum quantity of _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ObjectSpawner::ObjectSpawner::SetPropertyMaxQuantity"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "GetArgumentAsNumber(\"Value\")"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Value",
+                  "name": "Value",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Change the spawn period (in seconds).",
+              "fullName": "Spawn period",
+              "functionType": "Action",
+              "name": "SetSpawnPeriod",
+              "sentence": "Change the spawn period of _PARAM0_ to _PARAM2_ seconds",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ObjectSpawner::ObjectSpawner::SetPropertySpawnPeriod"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "GetArgumentAsNumber(\"Value\")"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Value",
+                  "name": "Value",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return the offset X relative to origin of spawner (in pixels).",
+              "fullName": "Offset X",
+              "functionType": "Expression",
+              "name": "OffsetX",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "Object.Behavior::PropertyOffsetX()"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Value",
+                  "name": "Value",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return the offset Y relative to origin of spawner (in pixels).",
+              "fullName": "Offset Y",
+              "functionType": "Expression",
+              "name": "OffsetY",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "Object.Behavior::PropertyOffsetY()"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Value",
+                  "name": "Value",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return the maximum number of living objects a spawner can create.",
+              "fullName": "Maximum quantity",
+              "functionType": "Expression",
+              "name": "MaxQuantity",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "Object.Behavior::PropertyMaxQuantity()"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Value",
+                  "name": "Value",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return the spawn period (in seconds).",
+              "fullName": "Spawn period",
+              "functionType": "Expression",
+              "name": "SpawnPeriod",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "Object.Behavior::PropertySpawnPeriod()"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "onDeActivate",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PauseObjectTimer"
+                      },
+                      "parameters": [
+                        "Object",
+                        "\"__ObjectSpawner.SpawnTimer\""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "onActivate",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "UnPauseObjectTimer"
+                      },
+                      "parameters": [
+                        "Object",
+                        "\"__ObjectSpawner.SpawnTimer\""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Restart the cool down of a spawner.",
+              "fullName": "Restart cool down",
+              "functionType": "Action",
+              "name": "ResetSpawnTimer",
+              "sentence": "Restart the cool down of _PARAM0_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ResetObjectTimer"
+                      },
+                      "parameters": [
+                        "Object",
+                        "\"__ObjectSpawner.SpawnTimer\""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return the remaining time before the next spawn (in seconds). Useful for triggering visual and sound effects.",
+              "fullName": "Time before spawn",
+              "functionType": "Expression",
+              "name": "TimeBeforeSpawn",
+              "sentence": "_PARAM0_ just spawned an object",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "ObjectSpawner::ObjectSpawner::PropertyMaxQuantityReached"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "Object.Behavior::PropertySpawnPeriod()"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "ObjectSpawner::ObjectSpawner::PropertyMaxQuantityReached"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "Object.Behavior::PropertySpawnPeriod() - Object.ObjectTimerElapsedTime(\"__ObjectSpawner.SpawnTimer\")"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Check if an object has just been created by this spawner. Useful for triggering visual and sound effects.",
+              "fullName": "Spawned object ",
+              "functionType": "Condition",
+              "name": "ObjectWasJustSpawned",
+              "sentence": "_PARAM0_ just spawned an object",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "ObjectSpawner::ObjectSpawner::PropertyJustSpawnedAnObject"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnBoolean"
+                      },
+                      "parameters": [
+                        "True"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "ObjectSpawner::ObjectSpawner",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "1",
+              "type": "Number",
+              "unit": "Second",
+              "label": "Spawn period",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "SpawnPeriod"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "unit": "Pixel",
+              "label": "Offset X (relative to position of spawner)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "OffsetX"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "unit": "Pixel",
+              "label": "Offset Y (relative to position of spawner)",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "OffsetY"
+            },
+            {
+              "value": "",
+              "type": "Boolean",
+              "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "JustSpawnedAnObject"
+            },
+            {
+              "value": "",
+              "type": "Boolean",
+              "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "MaxQuantityReached"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "Max quantity (per spawner)",
+              "description": "Set it to 0 to never stop spawning objects.",
+              "group": "",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "MaxQuantity"
+            }
+          ],
+          "sharedPropertyDescriptors": []
+        }
+      ],
+      "eventsBasedObjects": []
+    }
+  ],
   "externalLayouts": [],
   "externalSourceFiles": []
 }
