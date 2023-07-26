@@ -1077,13 +1077,137 @@
         "name": "Explode_Down2",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "ExplosionCentre-Anim1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ExplosionCentre-Anim1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ExplosionCentre-Anim2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\ExplosionCentre-Anim2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ExplosionCentre-Anim3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\ExplosionCentre-Anim3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ExplosionBras-Anim4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\ExplosionBras-Anim4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ExplosionBras-Anim2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\ExplosionBras-Anim2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ExplosionBras-Anim1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\ExplosionBras-Anim1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ExplosionDoigt-Anim1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\ExplosionDoigt-Anim1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ExplosionDoigt-Anim2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\ExplosionDoigt-Anim2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ExplosionDoigt-Anim3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\ExplosionDoigt-Anim3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ExplosionDoigt-Anim4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\ExplosionDoigt-Anim4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/ExplosionAvantBras-Anim4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\ExplosionAvantBras-Anim4.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
   },
   "objects": [],
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "Score",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "folded": true,
+      "name": "Level",
+      "type": "string",
+      "value": "1"
+    },
+    {
+      "folded": true,
+      "name": "Bomb",
+      "type": "string",
+      "value": "2"
+    },
+    {
+      "folded": true,
+      "name": "Flame",
+      "type": "string",
+      "value": "2"
+    }
+  ],
   "layouts": [
     {
       "b": 209,
@@ -1105,11 +1229,27 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.9934433498259582,
+        "zoomFactor": 1.0615714305219985,
         "windowMask": false
       },
-      "objectsGroups": [],
-      "variables": [],
+      "objectsGroups": [
+        {
+          "name": "OtherExplosion",
+          "objects": [
+            {
+              "name": "Explosion"
+            }
+          ]
+        }
+      ],
+      "variables": [
+        {
+          "folded": true,
+          "name": "bombAlreadyExist",
+          "type": "boolean",
+          "value": true
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -2857,7 +2997,14 @@
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "BombPut",
+              "type": "number",
+              "value": 0
+            }
+          ],
           "effects": [],
           "behaviors": [
             {
@@ -3260,7 +3407,14 @@
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "folded": true,
+              "name": "Range",
+              "type": "string",
+              "value": ""
+            }
+          ],
           "effects": [],
           "behaviors": [
             {
@@ -3610,6 +3764,700 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Explosion",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "ExplosionCenter",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.034,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ExplosionCentre-Anim1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 6
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 36
+                          },
+                          {
+                            "x": 12,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\ExplosionCentre-Anim2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 6
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 36
+                          },
+                          {
+                            "x": 12,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\ExplosionCentre-Anim3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 6
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 36
+                          },
+                          {
+                            "x": 12,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ExplosionCentre-Anim4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 6
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 36
+                          },
+                          {
+                            "x": 12,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "ExplosionArm",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.034,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\ExplosionBras-Anim1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 6
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 36
+                          },
+                          {
+                            "x": 12,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\ExplosionBras-Anim2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 6
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 36
+                          },
+                          {
+                            "x": 12,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ExplosionBras-Anim3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 6
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 36
+                          },
+                          {
+                            "x": 12,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\ExplosionBras-Anim4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 6
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 36
+                          },
+                          {
+                            "x": 12,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "ExplosionFinger",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.034,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\ExplosionDoigt-Anim1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 6
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 36
+                          },
+                          {
+                            "x": 12,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\ExplosionDoigt-Anim2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 6
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 36
+                          },
+                          {
+                            "x": 12,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\ExplosionDoigt-Anim3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 6
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 36
+                          },
+                          {
+                            "x": 12,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\ExplosionDoigt-Anim4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 6
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 36
+                          },
+                          {
+                            "x": 12,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "ExplosionCenterEnding",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ExplosionCentre-Anim4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 6
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 36
+                          },
+                          {
+                            "x": 12,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ExplosionCentre-Anim4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 6
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 36
+                          },
+                          {
+                            "x": 12,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "ExplosionArmEnding",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\ExplosionAvantBras-Anim4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 6
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 36
+                          },
+                          {
+                            "x": 12,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\ExplosionAvantBras-Anim4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 6
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 12
+                          },
+                          {
+                            "x": 36,
+                            "y": 36
+                          },
+                          {
+                            "x": 12,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "ExplosionFingerEnding",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\ExplosionDoigt-Anim4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\ExplosionDoigt-Anim4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -3875,90 +4723,599 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "name": "Bomb",
+          "name": "Creation",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
-          "events": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "Bomberman",
+              "conditions": [],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "f"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Bomberman",
+                        "BombPut",
+                        "<",
+                        "Bomberman.Variable(BombCapacity)"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "bombAlreadyExist",
+                        "="
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionPoint"
+                          },
+                          "parameters": [
+                            "Bomb",
+                            "round(Bomberman.X() / 1) * 1",
+                            "round(Bomberman.Y() / 1) * 1"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetSceneVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "bombAlreadyExist",
+                            "True"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "SceneVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "bombAlreadyExist",
+                            "False"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "Bomb",
+                            "round(Bomberman.X() / 1) * 1",
+                            "round(Bomberman.Y() / 1) * 1",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ChangePlan"
+                          },
+                          "parameters": [
+                            "Bomb",
+                            "=",
+                            "Bomb.Y() + 10"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Bomb",
+                            "\"Detonator\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ModVarObjet"
+                          },
+                          "parameters": [
+                            "Bomberman",
+                            "BombPut",
+                            "+",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ModVarObjet"
+                          },
+                          "parameters": [
+                            "Bomb",
+                            "Range",
+                            "=",
+                            "Bomberman.Variable(Range)"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ModVarObjet"
+                          },
+                          "parameters": [
+                            "Bomberman",
+                            "BombX",
+                            "=",
+                            "Bomb.X()"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ModVarObjet"
+                          },
+                          "parameters": [
+                            "Bomberman",
+                            "BombY",
+                            "=",
+                            "Bomb.Y()"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ModVarObjet"
+                          },
+                          "parameters": [
+                            "Bomb",
+                            "PlayerNum",
+                            "=",
+                            "Bomberman.Variable(Number)"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetObjectVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "Bomb",
+                            "IsNew",
+                            "True"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "Bomb",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Bomb",
+                    "IsNew",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Bomb",
+                    "IsNew",
+                    "="
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "Player",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Bomberman",
+                        "Bomb",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Bomb",
+                        "IsOverlaping[ToString(Bomberman.Variable(Number))]",
+                        "True"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
           "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Detonation",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
-              "type": {
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "f"
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ObjectTimer"
+                  },
+                  "parameters": [
+                    "Bomb",
+                    "\"Detonator\"",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "Bomb",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "OtherExplosion",
+                    "Bomb",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationEnded"
+                  },
+                  "parameters": [
+                    "Explosion"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Explosion",
+                        "\"ExplosionCenter\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Explosion",
+                        "\"ExplosionCenterEnding\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Explosion",
+                        "\"ExplosionArm\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Explosion",
+                        "\"ExplosionArmEnding\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Explosion",
+                        "\"ExplosionFinger\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Explosion",
+                        "\"ExplosionFingerEnding\""
+                      ]
+                    }
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationEnded"
+                  },
+                  "parameters": [
+                    "Explosion"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Explosion",
+                        "\"ExplosionCenterEnding\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Explosion",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Explosion",
+                        "\"ExplosionArmEnding\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Explosion",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Explosion",
+                        "\"ExplosionFingerEnding\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Explosion",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "Create"
-              },
-              "parameters": [
-                "",
-                "Bomb",
-                "round(Bomberman.X() / 1) * 1",
-                "round(Bomberman.Y() / 1) * 1",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "Bomb",
-                "\"Idle\""
-              ]
-            },
-            {
-              "type": {
-                "value": "ResetTimer"
-              },
-              "parameters": [
-                "",
-                "\"Explosion\""
-              ]
-            }
-          ]
+          "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Collision with player",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
-              "type": {
-                "value": "CompareTimer"
-              },
-              "parameters": [
-                "",
-                "\"Explosion\"",
-                ">=",
-                "2"
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "Bomberman",
+              "conditions": [],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Bomberman",
+                        "Bomb",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Bomb",
+                        "IsOverlaping[ToString(Bomberman.Variable(Number))]",
+                        "True"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ObjectVariableRemoveChild"
+                      },
+                      "parameters": [
+                        "Bomb",
+                        "IsOverlaping",
+                        "Bomberman.VariableString(Number)"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Bomberman",
+                        "Bomb",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "ObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Bomb",
+                        "IsOverlaping[ToString(Bomberman.Variable(Number))]",
+                        "True"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SeparateFromObjects"
+                      },
+                      "parameters": [
+                        "Bomberman",
+                        "Bomb",
+                        ""
+                      ]
+                    }
+                  ]
+                }
               ]
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "Bomb",
-                "\"Explode_1\""
-              ]
-            }
-          ]
+          "parameters": []
         }
       ],
       "layers": [
@@ -4006,7 +5363,14 @@
       ]
     }
   ],
-  "externalEvents": [],
+  "externalEvents": [
+    {
+      "associatedLayout": "",
+      "lastChangeTimeStamp": 0,
+      "name": "Untitled external events",
+      "events": []
+    }
+  ],
   "eventsFunctionsExtensions": [
     {
       "author": "",
